@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: pomadoro-spring-shell
+  shell:
+    interactive:
+      enabled: true
+
